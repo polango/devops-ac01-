@@ -1,11 +1,11 @@
 Controle Financeiro
 
 Deverá ser utilizado os seguintes componentes:
-Visual Studio;   
-Asp.Net;         
-CSS;             
-Framework:       
-Bootstrap.      
+Visual Studio;   ok
+Asp.Net;         ok
+CSS;             ok
+Framework:       ok
+Bootstrap.       ok
 
 
 

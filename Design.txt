@@ -1,0 +1,6 @@
+Usarei os seguintes programas para o design:
+Visual Studio;
+Asp.Net;
+CSS;
+Framework;
+Bootstrap;

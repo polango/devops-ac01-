@@ -1,3 +1,6 @@
+#BRUNO RICARDO DA SILVA
+#RA:1520228
+#USUARIO:polango
 Controle Financeiro
 
 Deverá ser utilizado os seguintes componentes:
@@ -8,5 +11,11 @@ Framework:       ok
 Bootstrap.       ok
 
 
-
+#DESIGN:
+Usarei os seguintes programas para o design:
+Visual Studio;
+Asp.Net;
+CSS;
+Framework;
+Bootstrap;
 

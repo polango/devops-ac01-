@@ -1,3 +1,15 @@
+#Nome: Bruno Ricardo da Silva
+#RA: 1520228
+#USUARIO:polango
+ 
+DESIGN:
+Usarei os seguintes programas para o design:
+Visual Studio;
+Asp.Net;
+CSS;
+Framework;
+Bootstrap;
+
 Controle Financeiro
 
 Deverá ser utilizado os seguintes componentes:

@@ -1,11 +1,14 @@
-Controle Financeiro
+# Controle Financeiro
+# GABRIEL DA SILVA BEZERRA
+# RA: 1801171
+# USUARIO: gabrielimpacta123
 
-Deverá ser utilizado os seguintes componentes:
-Visual Studio;   ok
-Asp.Net;         ok
-CSS;             ok
-Framework:       ok
-Bootstrap.       ok
+# Deverá ser utilizado os seguintes componentes:
+# Visual Studio;   ok
+# Asp.Net;         ok
+# CSS;             ok
+# Framework:       ok
+# Bootstrap.       ok
 
 # NOME: BRUNO RICARDO DA SILVA
 # RA: 1520228
